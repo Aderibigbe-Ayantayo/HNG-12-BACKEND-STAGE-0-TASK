@@ -37,8 +37,8 @@ fetch("https://hng-12-backend-stage-0-task.onrender.com")
   "current_datetime": "2025-01-30T09:30:00Z",
   "github_url": "https://github.com/Aderibigbe-Ayantayo/HNG-12-BACKEND-STAGE-0-TASK"
 }
-
+```
 ## Useful Links
 
   https://hng.tech/hire/nodejs-developers
-```
+
