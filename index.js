@@ -10,9 +10,9 @@ app.use(cors());
 // Endpoint to return the required JSON response
 app.get("/", (req, res) => {
   const response = {
-    email: "adex.fadeel1989@gmail.com", // Replace with your registered email
+    email: "adex.fadeel1989@gmail.com", 
     current_datetime: new Date().toISOString(),
-    github_url: "https://github.com/Aderibigbe-Ayantayo/your-repo", // Replace with your GitHub URL
+    github_url: "https://github.com/Aderibigbe-Ayantayo/HNG-12-BACKEND-STAGE-0-TASK", 
   };
 
   res.status(200).json(response);
